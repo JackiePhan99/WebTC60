@@ -1,0 +1,8 @@
+{
+	"name": "tuananh",
+	"children": [
+		"com",
+		"ngo"
+	],
+	"age": "31"
+}
